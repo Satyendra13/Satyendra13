@@ -1,7 +1,7 @@
 [![MasterHead](https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=906&q=80)]]
 <h1 align="center">Hi 👋, I'm Satyendra Kumar</h1>
 <h3 align="center">A passionate React developer</h3>
-<img align="right" alt="programmer" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="programmer" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyendra13&label=Profile%20views&color=0e75b6&style=flat" alt="satyendra13" /> </p>
 
 <p align="left"> <a href="https://twitter.com/satyendra_13" target="blank"><img src="https://img.shields.io/twitter/follow/satyendra_13?logo=twitter&style=for-the-badge" alt="satyendra_13" /></a> </p>
